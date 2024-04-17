@@ -1,9 +1,18 @@
-# tnsdc-rice_classification
+
 rice classification using cnn
+
+
 The [Original Dataset](https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset) contains 75000 images of 5 different Rice species. Each of the species has 15000 images each. The basic task is to develop a CNN model to classify a rice grain image into one of these 5 categories correctly.
 
 
+
+
+
+
 Rice_Image_Classification
+
+
+
 |
 |--- Train
 |     |---Arborio (12000 images)
@@ -12,12 +21,21 @@ Rice_Image_Classification
 |     |---Jasmine (12000 images)
 |     |---Karacadag (12000 images)
 |
+
+
+
+
 |--- Test/Validation
       |---Arborio (3000 images)
       |---Basmati (3000 images)
       |---Ipsala (3000 images)
       |---Jasmine (3000 images)
       |---Karacadag (3000 images)
+
+
+
+
+
 
 
       
